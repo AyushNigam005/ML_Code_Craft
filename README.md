@@ -56,8 +56,6 @@ ML_Code_Craft/
    python app.py
    ```
 
-4. Open your browser at [http://localhost:5000](http://localhost:5000) to access the app.
-
 ## 📈 Results
 
 - Achieved a high model accuracy on test data.
